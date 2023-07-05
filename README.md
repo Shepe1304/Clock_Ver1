@@ -2,7 +2,7 @@
 A Visual Studio C# Project that shows a Clock of your current time, allows you to use a Stopwatch, and also lets you set a Timer!
 To increase the interest and the fun, the Clock comes with two appearances: The ordinary clock with hands, or the clock that runs with circular progress bars.
 
-**Finish date** Dec 17, 2022
+**Finish time** 2022
 
 **HOW TO USE**
 You can use this program very similarly to the Clock app on your phone.
